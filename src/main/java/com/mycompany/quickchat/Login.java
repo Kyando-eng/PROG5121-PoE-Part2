@@ -60,7 +60,7 @@ public class Login {
  
     // Cell number: international code (+) followed by the number
 
-    // TODO: add your reference for this regex here (source, year, URL, date accessed)
+// Regex: ^ start, \+ a literal "+" (international code), \d{11,12} 11 to 12 digits, $ end 
 
     public boolean checkCellPhoneNumber(String cellPhoneNumber) {
 
