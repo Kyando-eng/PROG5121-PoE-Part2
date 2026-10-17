@@ -291,8 +291,7 @@ public class Message {
      *
      * Google (2023) Gson User Guide. Available at:
      *
-     * https://github.com/google/gson/blob/main/UserGuide.md (Accessed: add your
-     * access date).
+     * https://github.com/google/gson/blob/main/UserGuide.md (Accessed: 17 October 2026).
      *
      */
     public void storeMessage(String storageFile) {
